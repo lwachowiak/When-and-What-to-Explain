@@ -1,5 +1,7 @@
 # Predicting When and What to Explain from Multimodal Eye Tracking and Task Signals
 
+This repository contains the code for the data preprocessing, machine learning models, and hyperparameter search described in our paper.
+
 ## Reference 
 The PDF can be found [here](https://kclpure.kcl.ac.uk/admin/files/272361658/TAC_When_to_Explain_2024.pdf).
 
